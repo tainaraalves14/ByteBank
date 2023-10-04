@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PeSwm75Y0Fu+YNPr0Gt/apQtkJdBeI5+nOetKjGDA1W71u1ucUB0+62KrnWKOnWoKFnn8aRpWLTxuf70z3cSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taina\\OneDrive\\Área de Trabalho\\ByteBank\\ByteBank\\ByteBank.Domain\\ByteBank.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taina\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\taina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\taina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
